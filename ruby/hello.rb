@@ -1,1 +1,3 @@
-puts "hello world"
+require_relative './function.rb'
+
+puts greeting
